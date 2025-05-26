@@ -14,4 +14,4 @@ Profit by Month over different regions.
 Sum of total Profit By Sub-Category.
 
 LinkedIn Project Link:
-https://www.linkedin.com/in/kumari-neha-a569b4250/recent-activity/all/
+https://www.linkedin.com/feed/update/urn:li:activity:7319805901626830848/
