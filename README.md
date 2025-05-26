@@ -12,3 +12,6 @@ Sum of total amount over different state and CustomerName.
 Sum of total quantity over Category and PaymentMode.
 Profit by Month over different regions.
 Sum of total Profit By Sub-Category.
+
+LinkedIn Project Link:
+https://www.linkedin.com/in/kumari-neha-a569b4250/recent-activity/all/
